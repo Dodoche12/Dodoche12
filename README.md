@@ -14,7 +14,7 @@ Je participe régulièrement à des séminaires sur l'entrepreneuriat.
 - Prompt engineering  
 - Design UI/UX  
 
----
+
 
 ## Domaines maîtrisés
 - Systèmes  
@@ -22,14 +22,14 @@ Je participe régulièrement à des séminaires sur l'entrepreneuriat.
 - Distribution Linux  
 - Ubuntu Server  
 
----
+
 
 ## Langages
 - Python  
 - C (bases)  
 - Java (POO / Graphique)  
 
----
+
 
 ## Fun fact
 Je suis quelqu'un de joyeuse et motivée, toujours prête à apprendre et partager.  
