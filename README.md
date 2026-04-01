@@ -2,36 +2,41 @@
 # Bienvenue sur mon portfolio GitHub
 
 ## Présentation
-Je m'appelle **Louis Dochlie**  
-Étudiant en **Sciences Informatiques**  
-Âgé de **23 ans**  
-Passionné par les **systèmes** et l'**administration système**
+Je m'appelle **Dochlie Louis**  
+Informaticienne | 23 ans | Chimiste  
+Je suis une personne joyeuse, avec 2 ans d'expérience en programmation.  
+Je participe régulièrement à des séminaires sur l'entrepreneuriat.  
 
 ---
 
 ## Compétences
-- Programmation Python : scripts robustes, applications menu-driven
-- Java Swing : interfaces graphiques ergonomiques et colorées
-- Administration système : gestion, optimisation et sécurité
-- Rédaction académique : synthèse de rapports et présentations claires
+- Fabrication de produits chimiques  
+- Prompt engineering  
+- Design UI/UX  
 
 ---
 
-## Projets
-- Application PGCD et primalité : outils mathématiques pratiques
-- Menu interactif en Python : scripts accessibles et conviviaux
-- Interface Swing personnalisée : design coloré et ergonomique
+## Domaines maîtrisés
+- Systèmes  
+- Administration système  
+- Distribution Linux  
+- Ubuntu Server  
 
 ---
 
-## Me contacter
-- Email : *ajoute ton adresse ici*  
-- LinkedIn : *ajoute ton profil ici*  
-- GitHub : [Dodoche12](https://github.com/Dodoche12)
+## Langages
+- Python  
+- C (bases)  
+- Java (POO / Graphique)  
 
 ---
 
-Ce portfolio est en constante évolution, restez connectés pour découvrir mes nouveaux projets.
+## Fun fact
+Je suis quelqu'un de joyeuse et motivée, toujours prête à apprendre et partager.  
+
+---
+
+
 
 <!--
 **Dodoche12/Dodoche12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
