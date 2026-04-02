@@ -1,6 +1,6 @@
 
 # Bienvenue sur mon portfolio GitHub
-photo.jpg/WhatsApp Image 2026-04-01 at 12.40.41 PM.jpeg
+![Dodoche12](https://github.com/Dodoche12/TD/blob/0534ae31ce4bfdbd1f1543e5578b03cf87baf815/photo.jpg/WhatsApp%20Image%202026-04-01%20at%2012.40.41%20PM.jpeg)
 ## Présentation
 Je m'appelle **Dochlie Louis**  
 Informaticienne | 23 ans | Chimiste  
