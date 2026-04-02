@@ -37,6 +37,12 @@ Je suis quelqu'un de joyeuse et motivée, toujours prête à apprendre et partag
 ---
 
 
+## Contact
+
+Email : dochlieloui3@gmail.com
+
+GitHub : github.com/Dodoche12
+
 
 <!--
 **Dodoche12/Dodoche12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
